@@ -10,7 +10,7 @@ public class Zebra extends Animal {
     @Override
     public void mananca(String mancare) {
         // TODO Auto-generated method stub
-        System.out.print("Zebra "+this.getNume()+ " mananca "+ mancare);
+        System.out.println("Zebra "+this.getNume()+ " mananca "+ mancare);
     }
 
 }
